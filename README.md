@@ -41,12 +41,7 @@ cargo test --manifest-path windows/Cargo.toml
 cargo test --manifest-path core/Cargo.toml
 cargo build --manifest-path windows/Cargo.toml --release --bin WinterVibe
 ```
-
 The executable is written to `windows/target/release/WinterVibe.exe`.
-
-## Based on Snowhush
-
-WinterVibe is derived from **Snowhush v0.6.1** by **Mykhailo Bezruchko**. The original project and its source history are available at [github.com/mbezruchko/Snowhush](https://github.com/mbezruchko/Snowhush). Snowhush's MIT license and copyright notice are retained in this repository. WinterVibe is an independent community derivative; the original author is not responsible for WinterVibe releases.
 
 ## License and third-party notices
 
