@@ -1,0 +1,9 @@
+WinterVibe v0.1.0 Beta — Windows x64
+
+1. Extract this ZIP to a folder.
+2. Run WinterVibe.exe. The app appears in the notification area (system tray).
+3. Open its tray menu to choose a snowfall profile or adjust custom settings.
+4. Choose Quit / Выход in the tray menu to close the app.
+
+The app is portable and does not require administrator privileges.
+See THIRD-PARTY-NOTICES.md and THIRD-PARTY-LICENSES/ for attribution and dependency notices.
